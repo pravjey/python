@@ -1,9 +1,3 @@
-'''Pravin Jeyaraj, login id: pjeyar01.
-   Assignment 1: A game where the player has to land a spacecraft on
-   the moon without crashing by burning varying amounts of fuel each
-   turn.'''
-
-
 
 def get_float(prompt):
     try:
