@@ -5,7 +5,7 @@ print("Reading dataset using Pandas package")
 print("=======================e=============")
 print("\n")
 file_csv = "E:\MSc Data Science\Data Science Techniques and Applications\Coursework\\tweets.csv"
-df = pd.read_csv(file_csv)
+df = pd.read_csv(file_csv, encoding = "cp1252")
 print("\n")
 
 print("Attributes of tweet")
