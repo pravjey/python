@@ -7,8 +7,8 @@ DataCollect.py / govcats.py - a descriptive and graphical analysis of the number
 DataCollect.py - a program to collect and store lists of the most recent followers, friends, twensets of each government cat and lists of the profile descriptions and stated locations for each of the most recent follower of each government cat.
 
 AnalysisFollowers.py - a program to create a graph/network of the global network for the UK government cats and the most recent followers and friends and to identify the most central accounts in the global network.
-
 AnalysisFollowers2.py - a program to collect basic information about the most central accounts in the global UK government cat  network.
+The findings are discussed at https://pravinjeyaraj.wordpress.com/2020/02/17/most-important-users-of-government-cat-twitter-network/
 
 AnalysisDescript.py - a programe to develop an understanding of the most recen t followers of each government cat, based on textual analysis of the profile descriptions
 
