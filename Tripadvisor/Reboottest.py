@@ -47,7 +47,7 @@ population = sorted(population)
 num_restaurants = []
 for i in cities:
     print("Scraping Tripadvisor for vegan option restaurants in", i)
-    file = "Tripadvisor/" + i + ".html"
+    file = i + ".html"
     soup = BeautifulSoup(open(file, encoding="utf8"), "html.parser")
     span = soup.find_all("span")
     for e in span:
